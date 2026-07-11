@@ -8,6 +8,12 @@ Learning powerbi through real hand ons project : Analyse data job
 ### First Project
 Dashboard to view job  with drill Through feature to view detail selected job  
 
+Skill learn
+- Differents Charts, slicer, selection, button action,...
+- Edit interaction, Drill Through, Dasboard design principe, ...
+- Measure, modeling, power query, ...
+
+
 #### Dasboard
 <img src="images_project/Dasboard.png">
 
