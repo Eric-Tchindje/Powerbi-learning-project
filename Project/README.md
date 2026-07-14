@@ -69,4 +69,3 @@ This project put key Power BI features into practice. Here's what we mastered:
 
 #### Dashboard 2
 <img src="images_project/Dashboard2.png">
-s
